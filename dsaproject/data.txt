@@ -1,0 +1,40 @@
+
+Slide 5: Haseeb's Interaction with the Tester
+"Haseeb ne Tester ke kaam ko dekha aur unse insights liye:
+Responsibilities:
+
+Testers ka kaam hota hai ke software ko dono functional aur non-functional requirements par test karna.
+Test cases develop karte hain aur bugs fix karne ke liye developers ke sath collaborate karte hain.
+Selenium tool se automated testing karte hain jo regression testing ko fast aur reliable banata hai.
+JIRA software ka use hota hai task tracking aur sprint organization ke liye.
+Challenges:
+
+Tight deadlines ki wajah se thorough testing kabhi kabhi nahi ho pati.
+Har platform ke unique requirements ko adapt karna time-consuming hota hai.
+Learnings:
+
+Testing ke Importance: Requirements ke sath aligned test cases issues ko jaldi pakad lete hain.
+Collaboration: Testers aur developers ke beech close communication issue resolution fast banata hai.
+Adaptability: Testing strategies har platform ke liye evolve karni padti hain.
+Cross-Platform Compatibility: Devices aur operating systems ke liye testing ka bohot importance hai."
+Slide 6: Hassan's Interaction with the UI Designer
+"Hassan ka interaction UI designer ke sath tha, aur unke kaam ko samajhne ka moka mila:
+Responsibilities:
+
+UI designer ka kaam hai user-friendly aur accessible interfaces design karna.
+Yeh ensure karte hain ke design visually appealing aur functional ho.
+Developers ke sath collaborate karke designs ko implement karte hain.
+Tools and Design Approach:
+
+Figma tool ka use hota hai designs banane ke liye.
+Accessibility guidelines, jaise WCAG, ko follow kiya jata hai.
+User-centered design approach, jisme users ki zarurat pehle rakhi jati hai.
+Challenges:
+
+Kabhi kabhi stakeholders ka conflicting feedback milta hai, jo design decisions mushkil banata hai.
+Visual appeal aur functionality ke beech balance karna ek challenge hota hai.
+Learnings:
+
+User-Centered Design: Har decision mein user ki zarurat ko priority dena.
+Visual Storytelling: Designs ko intuitive aur engaging banane ka tareeqa.
+Collaboration: Feedback loops ke through iterative improvements karna."
